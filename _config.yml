@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+title:            'Geographies of Power'
+description:      'Interpreting maps and atlases'
+url:              'https://aeh0.github.io'
+baseurl:          '/geographies-of-power'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
@@ -65,13 +65,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  maps: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: 'maps_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'maps-metadata.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images/maps' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -85,15 +85,14 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      qatar:
+      maps:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
-          - location
+          - author
           - label
           - _date
           - object_type
-          - current_location
+          - description
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
