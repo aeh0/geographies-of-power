@@ -1,0 +1,45 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/HOW-00010_HOW-00010-0002-lo",
+  "protocol": "http://iiif.io/api/image",
+  "width": 3782,
+  "height": 3623,
+  "sizes": [
+    {
+      "width": 3782,
+      "height": 3623
+    },
+    {
+      "width": 250,
+      "height": 239
+    },
+    {
+      "width": 1140,
+      "height": 1092
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}
