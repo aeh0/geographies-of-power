@@ -3,7 +3,6 @@ layout: page
 title: Politics of cartography
 permalink: /politics/
 ---
-
 ## What is the significance of a map?  
 
 In order to understand a map’s function in the world we must consider the following: 

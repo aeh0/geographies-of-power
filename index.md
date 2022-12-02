@@ -7,10 +7,16 @@ banner:
   y: 25%
   height: '500px'
 ---
+This resource highlights the potential of maps as imperial tools and historical sources. It is the result of a research project, supported and funded by Cardiff University Research Opportunities Programme, that examines how people on either side of the Atlantic crafted and contested borders on land and water.  
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+There is little work on how Welsh travellers to the Americas, and people exploring Wales understood and wrote about borders in these regions. This guide emphasises the various ways in which maps, atlases, Welsh and Welsh-language writings on map-making and travel, can be used as key sources into historical concepts and representations on borders and power.  
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+Focusing on key themes, this resource will help you understand the importance of borders, symbols, and notions of representation on maps and other travel writings. The resource uses [IIIF](https://iiif.io) to examine the unique collection of early modern atlases and topographical materials held at Cardiff University’s [Special Collections and Archives](https://www.cardiff.ac.uk/special-collections) alongside maps held in American libraries, in answering these key questions: 
+
+- What is a map? 
+- How can maps be used as historical sources? 
+- How do you read a map? 
+- Why do borders matter? 
 
 ### Browse the Collection
 
