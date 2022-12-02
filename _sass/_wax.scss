@@ -77,6 +77,8 @@ header & nav bar
     }
     .nav-link {
       color: $text-color;
+      padding-right: 1rem;
+      padding-left: 1rem;
     }
     .nav-link:hover {
       color: $accent-dark;

@@ -102,15 +102,15 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'Politics of cartography'
+  - label: 'Politics'
     link: '/politics/'
   - label: 'Borders'
     link: '/borders/'
-  - label: 'Imperial silences'
+  - label: 'Silences'
     link: '/silences/'
-  - label: 'Travel accounts'
+  - label: 'Travel'
     link: '/travel/'
-  - label: 'Navigating the library'
+  - label: 'Library'
     link: '/library/'
   - label: 'Browse'
     link: '/collection/'
