@@ -9,6 +9,8 @@ Examining Thomas Kitchin’s map, we can see that borders act as physical, admin
 
 Borders changed with the negotiation of new treatises. Dotted lines indicate a disputed or potential border, whereas solid lines indicate definitive borders and land ownership. 
 
+<iframe src="https://www.exhibit.so/exhibits/QEGM853RyqgVhT6AneZ1?embedded=true" width="800" height="600" allowfullscreen allow="autoplay" frameborder="0"></iframe>
+
 Rivers and waterways could complicate matters due to their capricious nature. Their topographical effects were often unpredictable, which in turn had an uncertain effect on the delineation of landed borders, which could be more easily negotiated.    
 
 Evidence of such negotiations via printed extracts of, or articles of treaties to prevent or support claims of land, are often found on early modern maps.  
