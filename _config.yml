@@ -69,7 +69,7 @@ collections:
     output: true # makes sure pages are output as html files
     layout: 'maps_item' # the layout for the pages to use
     metadata:
-      source: 'maps-metadata.csv' # path to the metadata file within `_data`
+      source: 'metadata-maps.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/maps' # path to the directory of images within `_data`
 
