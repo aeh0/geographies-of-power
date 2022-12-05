@@ -11,6 +11,6 @@ Borders changed with the negotiation of new treatises. Dotted lines indicate a d
 
 Rivers and waterways could complicate matters due to their capricious nature. Their topographical effects were often unpredictable, which in turn had an uncertain effect on the delineation of landed borders, which could be more easily negotiated.    
 
-Evidence of such negotiations via printed extracts of, or articles of treaties to prevent or support claims of land, are often found on early modern maps.  
+Evidence of such negotiations via printed extracts of, or articles of treaties to prevent or support claims of land, are often found on early modern maps. 
 
 Kitchin’s map provides prime examples of how the English used these treaty sections to promote power and victory over other empires by claiming possession of their land, but other sources also reveal interesting details about the ways in which borders and concepts of ownership were understood. 
