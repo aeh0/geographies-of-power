@@ -4,7 +4,7 @@ title: Travel accounts
 permalink: /travel/
 banner:
   collection: maps
-  pid: obj05-03
+  pid: obj02-02
   y: 25%
   height: '500px'
 ---
