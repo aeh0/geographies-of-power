@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: maps
-  pid: CRB-00012-01
+  pid: obj07
   y: 25%
   height: '500px'
 ---
