@@ -14,7 +14,7 @@ This also had a significant effect on the representation of Native American trib
 
 See, for example how these areas, depicted on Terrason’s Map of the North America in 1720, and the 1756 map of The British and French Dominions in North America held by Yale University Library, are lacking in local topographical, cultural and historical detail. A similar lacunae is evident in de Wit’s map of America.
 
-- What do these maps reveal about the process claiming land?  
+- What do these maps reveal about the process of claiming land?  
 - Are ‘French’ territories marked differently to ‘British’ lands? 
 - What features, or evidence do the maps provide to substantiate any claims to the land? 
 
