@@ -2,6 +2,11 @@
 layout: page
 title: Imperial silences
 permalink: /silences/
+banner:
+  collection: maps
+  pid: obj01
+  y: 25%
+  height: '500px'
 ---
 Mapping the New World was often shrouded in secrecy due to the competitive nature of ‘discovering’ and claiming new territories between the various empires. Details of new and opportune territories often remained undisclosed. Many early maps of North America, for example, reveal substantial empty spaces in the North-Western areas.  
 

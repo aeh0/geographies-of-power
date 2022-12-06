@@ -2,6 +2,11 @@
 layout: page
 title: Politics of cartography
 permalink: /politics/
+banner:
+  collection: maps
+  pid: obj06
+  y: 25%
+  height: '500px'
 ---
 In order to understand a map’s function in the world, we must consider the following: 
 - When and why was the map made?

@@ -2,6 +2,11 @@
 layout: page
 title: Borders and their meaning
 permalink: /borders/
+banner:
+  collection: maps
+  pid: obj11
+  y: 25%
+  height: '500px'
 ---
 Examining Thomas Kitchin’s map, we can see that borders act as physical, administrative and political divisions between countries. The fight for borders was a substantial part of the British victory in the Seven Years War (1754-1763), a conflict that saw key European states and Great Britain vie for global dominance and territorial expansion, and the ruling of the colonies in North America.  
 

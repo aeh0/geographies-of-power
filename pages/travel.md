@@ -2,6 +2,11 @@
 layout: page
 title: Travel accounts
 permalink: /travel/
+banner:
+  collection: maps
+  pid: obj05-03
+  y: 25%
+  height: '500px'
 ---
 Printed maps became a key feature of late eighteenth and early nineteenth-century travel and emigrant accounts. Reflecting Britain’s dominance in the American Colonies, maps also served as a navigational tool for British and Welsh emigrants looking to embark on a new life across the Atlantic. Information on travel routes and journeys can also provide insight into the ways in which waterways and rivers were used, borders were crossed, and land was owned.
 
