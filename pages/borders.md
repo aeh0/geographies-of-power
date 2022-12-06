@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Borders
+title: Borders and their meaning
 permalink: /borders/
 ---
-## Borders and their meaning 
-
 Examining Thomas Kitchin’s map, we can see that borders act as physical, administrative and political divisions between countries. The fight for borders was a substantial part of the British victory in the Seven Years War (1754-1763), a conflict that saw key European states and Great Britain vie for global dominance and territorial expansion, and the ruling of the colonies in North America.  
 
 Borders changed with the negotiation of new treatises. Dotted lines indicate a disputed or potential border, whereas solid lines indicate definitive borders and land ownership. 
