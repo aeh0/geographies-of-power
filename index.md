@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: maps
-  pid: obj07
+  pid: obj03-02
   y: 25%
   height: '500px'
 ---
